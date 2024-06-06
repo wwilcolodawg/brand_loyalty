@@ -1,0 +1,51 @@
+Customer_ID,First_Name,Last_Name,Email,Phone,DOB,Gender,Address,City,ST,Zip_Code,Member_Since,Newsletter_Subscription,Feedback_Provided,Communication_Preferences,Data_Sharing_Consent
+CUST0000,Jason,Silva,wtorres@example.com,549.344.4954x3469,1971-02-01,Female,291 Gonzalez Shoal,Welchmouth,MN,55064,2023-11-17,False,True,None,True
+CUST0001,Kelsey,Griffin,stephaniecraig@example.org,001-556-842-0852x5486,1989-12-05,Female,330 Richard Shores,Lake Paulchester,MN,55489,2020-12-24,False,False,Email,True
+CUST0002,Jennifer,Miller,elizabeth98@example.com,(662)296-7078x3636,1997-10-16,Male,273 Kimberly Islands Suite 801,Wilsonville,MN,55257,2020-01-21,True,True,None,True
+CUST0003,Kevin,Smith,lori60@example.net,(974)298-9536,1981-12-02,Male,17190 Nicole Ports Suite 554,Walkerfort,MN,55254,2020-06-04,False,True,None,True
+CUST0004,Robert,Murphy,wmiller@example.org,(279)595-9855x12557,1964-02-24,Prefer not to say,7914 Debra Court,Denisetown,MN,56585,2023-05-14,True,False,None,True
+CUST0005,Christopher,Nichols,erinmathis@example.org,001-646-687-8683x736,1992-09-26,Other,93968 Kelley Hill Suite 237,Devinmouth,MN,56351,2021-07-23,True,False,SMS,True
+CUST0006,Christopher,Hogan,costawilliam@example.com,244.914.6580x7687,1973-11-19,Male,2527 Hobbs Union Suite 690,North Tyler,MN,55980,2021-03-09,True,True,SMS,False
+CUST0007,Sierra,Hodges,mgreen@example.net,(828)983-3408x66832,1959-09-08,Other,95940 Beth Cliff,East Erikland,MN,56093,2022-01-22,True,False,None,True
+CUST0008,Alvin,Howard,abradley@example.org,+1-345-636-8381x94747,1956-05-11,Prefer not to say,91464 Jennifer Street Apt. 938,Melanieland,MN,55434,2021-07-06,False,False,Email,True
+CUST0009,Kurt,Turner,moralesadam@example.com,801.920.8466x020,1967-10-15,Prefer not to say,8019 Jessica Extension,Susanland,MN,55814,2024-04-03,True,False,None,True
+CUST0010,Joseph,Garcia,thomasmccormick@example.com,931.788.4155x32112,1991-07-19,Female,11490 Pena Trail,Richardsonborough,MN,55869,2020-05-08,True,True,Email,True
+CUST0011,Jason,Roberts,jason41@example.com,403-508-7102,1977-07-23,Other,9857 Lee Flats,West Laurahaven,MN,56576,2022-06-08,True,False,Email,True
+CUST0012,Bryan,Young,thomas14@example.org,001-589-807-8035x75980,1989-02-19,Male,230 Cynthia Fields,Scottmouth,MN,56292,2023-06-09,True,True,Email,True
+CUST0013,James,Williams,fcook@example.net,664-372-2836x96494,1981-06-19,Other,97839 George Islands Apt. 871,New Hunter,MN,55894,2023-03-11,True,False,SMS,False
+CUST0014,Elizabeth,Schmidt,mitchellnatasha@example.net,001-464-494-0023,2006-02-16,Other,52643 Thomas Mountain,West Mary,MN,55148,2022-07-22,True,True,None,True
+CUST0015,Christine,Rhodes,samanthawillis@example.org,001-529-891-1518x341,1984-01-13,Male,73495 Carlos Canyon,North Christyfort,MN,55367,2023-12-03,True,True,SMS,True
+CUST0016,Felicia,Green,diane10@example.net,(372)490-4165x77372,1968-08-30,Male,377 Whitney Roads Suite 669,New Shawnmouth,MN,55585,2021-07-28,True,True,None,True
+CUST0017,Billy,Moreno,joseph50@example.com,001-940-434-4777,1982-08-05,Female,5276 Andrew Stravenue Suite 186,Lake Joelborough,MN,55428,2020-08-17,True,False,SMS,False
+CUST0018,Cheryl,Chang,nwise@example.net,696-248-5387x662,1996-08-20,Male,695 Esparza Square Apt. 786,Jacquelinebury,MN,55129,2020-07-26,True,True,SMS,True
+CUST0019,Amy,Cooke,padams@example.net,(830)923-5151x9301,1993-08-25,Other,2201 Carlson Place Suite 290,Johnhaven,MN,56484,2022-11-13,True,False,Email,True
+CUST0020,Christopher,Greene,mcrosby@example.org,(595)601-0923x857,1995-03-27,Female,17139 Henderson Mill Suite 028,North Kara,MN,56097,2019-08-11,True,True,SMS,True
+CUST0021,Amy,Johnson,gonzalespatricia@example.org,917-417-6941x1375,1992-06-22,Female,3585 Ann Wells,Mccoyland,MN,56673,2023-04-10,True,False,SMS,True
+CUST0022,Andrew,Russell,barbara25@example.net,610.724.6158x5342,2002-05-14,Other,501 Jennifer Spurs,Zacharyburgh,MN,56722,2019-07-15,False,False,Email,True
+CUST0023,Michele,Davis,hwilson@example.org,(934)918-7579x458,1995-09-30,Male,025 Guerrero Mountains,Barnesville,MN,55736,2021-02-21,True,False,SMS,True
+CUST0024,Lisa,Blair,davidgomez@example.com,(802)346-6726x5295,1990-05-21,Prefer not to say,255 Gray Track,Sydneyshire,MN,55122,2021-08-06,True,False,SMS,False
+CUST0025,Annette,Miles,victoriabrooks@example.net,+1-719-670-6640x989,1975-01-18,Other,5689 Rodriguez Lake,Lake Susan,MN,55746,2022-04-15,True,True,Email,True
+CUST0026,Miranda,Elliott,johnsonjessica@example.org,001-512-793-7013x597,1961-04-05,Male,195 Martinez Dam,Millerberg,MN,56382,2021-01-03,False,False,Email,True
+CUST0027,Sally,Green,chasenicole@example.com,893.895.9794,1959-06-06,Prefer not to say,40707 Griffin Rue Suite 042,Port Maryview,MN,56156,2019-07-01,False,True,Email,True
+CUST0028,Justin,Young,matthew19@example.net,889.497.7358,1976-12-16,Male,2420 William Street Suite 804,Bauerton,MN,55295,2020-07-26,True,False,Email,True
+CUST0029,Paul,Garcia,alexander52@example.com,(237)706-6394x91493,1956-07-09,Male,79186 James Fields,East Erin,MN,56204,2021-07-14,True,True,Email,True
+CUST0030,Robin,Burns,johnsonscott@example.org,+1-528-537-1287x9927,2002-06-17,Male,65866 Laura Flat,Mcmahonberg,MN,55266,2023-11-11,True,True,None,True
+CUST0031,Gabriel,Gutierrez,francismichael@example.net,(255)930-0251x3348,1972-05-27,Prefer not to say,942 Rodriguez Knolls,Jonesport,MN,56660,2023-07-07,True,False,SMS,True
+CUST0032,Joshua,Lewis,sierra08@example.org,001-645-350-9790,1959-01-11,Male,54093 Timothy Tunnel,Davismouth,MN,55123,2019-05-22,True,False,SMS,True
+CUST0033,Lindsey,Ramirez,johnsonkristen@example.org,9583853451,1972-03-20,Prefer not to say,0548 Burke Ridge,Amyfort,MN,55197,2019-08-21,True,True,Email,True
+CUST0034,Bailey,Bullock,zcontreras@example.org,001-512-907-3359x95923,1953-07-03,Other,551 Jennifer Harbors,Markhaven,MN,56477,2020-09-06,True,True,Email,False
+CUST0035,David,Lawson,chill@example.com,001-997-650-6149x7150,1972-10-22,Prefer not to say,90354 Miller Curve Suite 189,New Christina,MN,55728,2021-05-08,True,True,None,False
+CUST0036,Nathan,Rivera,egarrett@example.net,001-446-468-6208,1998-09-30,Other,92022 Jennifer Valleys Suite 970,West Kristinfurt,MN,56241,2021-07-19,False,True,SMS,False
+CUST0037,Larry,Webb,smithcory@example.com,684-552-4579x6346,1993-04-29,Other,1837 Katherine Lights Apt. 961,North Jesse,MN,56186,2024-01-09,False,False,Email,True
+CUST0038,Hunter,Padilla,afigueroa@example.org,810.993.4920,1975-12-19,Female,5224 Bennett Crest Suite 416,Johnsonburgh,MN,55415,2020-03-13,True,False,Email,False
+CUST0039,Mary,Mcfarland,christyoconnell@example.com,001-384-581-6849,1978-07-13,Other,530 Parker Locks Apt. 105,West Elizabethfort,MN,56069,2020-08-05,True,False,SMS,True
+CUST0040,Andrew,Stanley,nathanielcurry@example.org,4247900691,1983-01-05,Other,135 Andrew Club Suite 780,East Courtneyton,MN,55476,2024-03-13,False,True,SMS,True
+CUST0041,Brian,Brown,vegagwendolyn@example.com,(433)878-1398,1976-11-16,Male,715 Smith Crossroad,West Jamesberg,MN,56167,2019-07-11,False,False,SMS,True
+CUST0042,Justin,Sanchez,ldavenport@example.org,538.395.1843,2005-06-26,Female,58473 Harding Camp,Anthonyborough,MN,56524,2021-10-02,True,True,SMS,False
+CUST0043,Elizabeth,Clayton,williamleon@example.com,001-799-921-4650x6290,1960-09-12,Prefer not to say,010 Higgins View,Port Stephaniebury,MN,55151,2019-06-24,True,False,None,True
+CUST0044,Kyle,Campbell,jenniferzavala@example.com,657-598-0148x811,1992-02-18,Other,868 Edwards Ports,North Robertbury,MN,55257,2024-03-27,True,True,SMS,True
+CUST0045,Derek,Hess,smithsamantha@example.net,303.615.8414,2004-11-18,Male,570 Evans Divide,North Jonathantown,MN,55771,2022-05-19,False,True,Email,True
+CUST0046,Daniel,Carr,nicolelewis@example.net,576-314-5859x235,1976-02-09,Male,950 Sherry Gateway,Cortezhaven,MN,56437,2024-04-27,True,True,SMS,True
+CUST0047,Rachel,Pham,nathanoliver@example.org,+1-368-811-2065x48927,1986-11-10,Male,16908 Jerry Squares Apt. 288,Foleyside,MN,56071,2022-01-12,False,False,Email,True
+CUST0048,Jeffrey,Blackwell,kristen17@example.com,339.546.1505,1973-07-10,Prefer not to say,2323 Samantha Port,Marthaport,MN,55636,2020-08-09,False,False,None,True
+CUST0049,Angela,Duarte,ypatterson@example.com,9248164237,1975-01-02,Other,2777 Valencia Expressway,Wileystad,MN,56568,2021-12-01,True,False,Email,True
