@@ -2,9 +2,17 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# Construct the path to the data file
+BASE_DIR = os.path.dirname(
+    os.path.abspath(__file__)
+)  # Get the directory where the script is located
+DATA_DIR = os.path.join(BASE_DIR, "../Data")  # Define the path to the 'Data' directory
+data_file = os.path.join(
+    DATA_DIR, "customers.csv"
+)  # The path to the customers.csv file
+
 # Load data
-FOLDER_NAME = "../Data/"
-customers_df = pd.read_csv(FOLDER_NAME + "customers.csv")
+customers_df = pd.read_csv(data_file)
 data = customers_df.copy()
 
 
