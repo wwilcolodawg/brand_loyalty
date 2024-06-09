@@ -37,9 +37,8 @@ class CustomerGenerator:
 
         Returns:
             list: A list of dictionaries with customer data.
-        """
 
-        """
+
         Attributes:
             customer_id (str): A unique identifier for the customer.
             first_name (str): The customer's first name.
