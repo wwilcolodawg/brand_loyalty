@@ -4,12 +4,9 @@ import matplotlib.pyplot as plt
 import os
 
 # Set up the directory structure
-BASE_DIR = os.path.dirname(
-    os.path.abspath(__file__)
-)  # Directory where the script is located
-DATA_DIR = os.path.join(
-    BASE_DIR, "Data"
-)  # Adjusted to directly use 'Data' within the same folder level
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# This will navigate up one level to the 'Loyalty' directory, assuming your script is in the 'Streamlit' subfolder
+DATA_DIR = os.path.join(BASE_DIR, "Data")
 
 
 # Function to load data files dynamically

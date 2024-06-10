@@ -18,11 +18,11 @@ FILE_NAME = "menu"
 excel_data = pd.read_excel(FILE_NAME + ".xlsx", sheet_name=SHEET_NAME)
 
 # Save as a CSV file
-excel_data.to_csv(FILE_NAME + ".csv", index=False)
+excel_data.to_csv(FOLDER_NAME + "/" + FILE_NAME + ".csv", index=False)
 
 
 # Import menu.csv
-menu_df = pd.read_csv(FILE_NAME + ".csv")
+menu_df = pd.read_csv(FOLDER_NAME + "/" + FILE_NAME + ".csv")
 
 # declare groups of menu items that need to be analyzed
 groups_list = ["Primary", "Beverage"]
