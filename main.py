@@ -7,11 +7,11 @@ from dummy_store_generator import StoreGenerator
 FOLDER_NAME = "Data"
 
 # Initialize the CustomerGenerator with a specific number of dummy customers
-NUM_CUSTOMERS = 50
+NUM_CUSTOMERS = 10_000
 customer_generator = CustomerGenerator(NUM_CUSTOMERS)
 
 # Initialize the StoreGenerator with a specific number of dummy stores
-NUM_STORES = 5
+NUM_STORES = 10
 store_generator = StoreGenerator(NUM_STORES)
 
 # Access the generated DataFrames

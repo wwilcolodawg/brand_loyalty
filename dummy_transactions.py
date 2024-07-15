@@ -39,7 +39,7 @@ def generate_dummy_transactions(
     size_probabilities = size_df["Order_Size_Prob"].tolist()
 
     for _ in range(num_transactions):
-        order_number = fake.unique.random_int(min=1000, max=9999)
+        order_number = fake.unique.random_int(min=1000, max=150_000)
         transaction_date = fake.date_between(
             start_date="-1y", end_date="today"
         ).strftime("%Y-%m-%d")
@@ -72,7 +72,9 @@ def generate_dummy_transactions(
 
 
 # Generate the transactions
-NUM_DUMMY_TRANSACTIONS = 100  # Specify the number of transactions you want to generate
+NUM_DUMMY_TRANSACTIONS = (
+    100_000  # Specify the number of transactions you want to generate
+)
 dummy_transactions_df = generate_dummy_transactions(
     structure_data_df,
     customers_data_df,

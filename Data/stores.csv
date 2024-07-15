@@ -1,6 +1,11 @@
 Store_Name,Store_Number,Address,City,State,Zip
-Store_1,STR_1,88950 Dana Glen Apt. 881,St. Paul,MN,76828
-Store_2,STR_2,7312 Miller Mountains Apt. 737,St. Cloud,MN,38130
-Store_3,STR_3,0080 Gabrielle Square Apt. 367,Bloomington,MN,07933
-Store_4,STR_4,42935 Key Islands Suite 224,Rochester,MN,49845
-Store_5,STR_5,4106 Jared Cape Apt. 750,Maple Grove,MN,09662
+Store_1,STR_1,2377 Mcdonald Pass Suite 118,Plymouth,MN,24566
+Store_2,STR_2,161 Stephen Mission Suite 396,St. Paul,MN,19590
+Store_3,STR_3,9285 Lyons Valleys Apt. 195,Bloomington,MN,92197
+Store_4,STR_4,6185 Holden Highway,Woodbury,MN,76518
+Store_5,STR_5,72128 Moore Wall,Duluth,MN,72743
+Store_6,STR_6,196 Nancy Fields Apt. 397,Bloomington,MN,42647
+Store_7,STR_7,639 White Loop Suite 568,St. Paul,MN,04495
+Store_8,STR_8,2337 Butler Shoals Apt. 528,Duluth,MN,12787
+Store_9,STR_9,208 Paul Park Suite 613,St. Paul,MN,05874
+Store_10,STR_10,8757 Ronald Station Suite 137,Rochester,MN,29624

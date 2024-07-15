@@ -17,7 +17,7 @@ class CustomerGenerator:
         customers_df (DataFrame): DataFrame containing the generated customer data.
     """
 
-    def __init__(self, num_customers=100):
+    def __init__(self, num_customers=10_000):
         """
         Initializes the CustomerGenerator with a specified number of customers.
 
